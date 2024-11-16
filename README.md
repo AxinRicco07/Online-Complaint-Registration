@@ -1,19 +1,17 @@
 # Online-Complaint-Registration
 
 ## DEMO
-For Demo ---> <a href="https://drive.google.com/file/d/1WO_sNWk4UElHhNBUMKyUr1ijDF1lmD-K/view?usp=drivesdk">video link</a>
+For Demo ---> [LINK](https://drive.google.com/file/d/1WO_sNWk4UElHhNBUMKyUr1ijDF1lmD-K/view?usp=drivesdk)
 
-Project Name: [ONLINE COMPLAINT REGISTRY]
+Project Name: [ONLINE COMPLAINT REGISTRATION]
 
-Installation
-Prerequisites
+## Prerequisites
 Ensure you have the following installed on your machine:
 
-Node.js (version 16+ recommended)
-npm or yarn
-MongoDB
-Steps
-Clone the Repository:
+- Node.js (version 16+ recommended)
+- npm or yarn
+- MongoDB
+
 
 ## Installation
 1. Clone the repository:
@@ -29,7 +27,7 @@ Clone the Repository:
 
 Setup MongoDB:
 
-Start your local MongoDB server or use a MongoDB Atlas URI.
+- Start your local MongoDB server or use a MongoDB Atlas URI.
 
 
 ## Usage
@@ -38,11 +36,10 @@ To run the React, use the following command:
 cd frontend
 npm start
 ```
-To run the React, use the following command:
+To run the Node, use the following command:
 ```bash
 cd backend
 node index.js
 ```
 
-Access the Application
-Open your browser and navigate to http://localhost:3000.
+To Access the Application Open your browser and navigate to http://localhost:3000.
