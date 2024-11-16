@@ -1,5 +1,6 @@
 # Online-Complaint-Registration
 
+## DEMO
 For Demo ---> <a href="https://drive.google.com/file/d/1WO_sNWk4UElHhNBUMKyUr1ijDF1lmD-K/view?usp=drivesdk">video link</a>
 
 Project Name: [ONLINE COMPLAINT REGISTRY]
@@ -14,36 +15,34 @@ MongoDB
 Steps
 Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
-Install Dependencies:
+## Installation
+1. Clone the repository:
+```bash
+ git clone https://github.com/yourusername/yourproject.git
+```
 
-For Backend:
-bash
-Copy code
-cd backend
-npm install
-For Frontend:
-bash
-Copy code
-cd ../frontend
-npm install
+2. Install dependencies(frontend and backend):
+```bash
+ cd to/your/project/folder
+ npm install
+ ```
+
 Setup MongoDB:
 
 Start your local MongoDB server or use a MongoDB Atlas URI.
 
-Running the Application
-Backend
-bash
-Copy code
-cd backend
-npm start
-Frontend
-bash
-Copy code
+
+## Usage
+To run the React, use the following command:
+```bash
 cd frontend
 npm start
+```
+To run the React, use the following command:
+```bash
+cd backend
+node index.js
+```
+
 Access the Application
 Open your browser and navigate to http://localhost:3000.
