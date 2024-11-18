@@ -16,7 +16,7 @@ Ensure you have the following installed on your machine:
 ## Installation
 1. Clone the repository:
 ```bash
- git clone https://github.com/yourusername/yourproject.git
+ git clone https://github.com/AxinRicco07/Online-Complaint-Registration.git
 ```
 
 2. Install dependencies(frontend and backend):
